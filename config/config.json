@@ -1,0 +1,6 @@
+{
+    "base_url": "http://testserver",
+    "username": "admin",
+    "password": "admin123",
+    "timeout": 30
+}

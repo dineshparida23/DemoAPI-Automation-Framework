@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual Environment
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Reports
+reports/
+allure-results/
+allure-report/
+
+# Logs
+logs/
+
+# Environment Variables
+.env
+
+# OS Files
+Thumbs.db
+.DS_Store
